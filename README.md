@@ -1,5 +1,4 @@
 # Industry-Talk-1
-# Industry Talk 1
 ## From Developer to CEO: The Perfect Blend of Technology and Business
 
 ### 1. Activity Information
